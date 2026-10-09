@@ -1,4 +1,4 @@
-# EduTrackX – Student Management REST API
+# Student Management REST API
 
 ## 📌 Project Overview
 
