@@ -1,4 +1,4 @@
-# Student Management REST API
+# STUDENT HUB REST API
 
 ## 📌 Project Overview
 
@@ -38,11 +38,11 @@ src/main/java/com/lakshmi/studentportal/
     └── StudentService.java
 ```
 
-*Note: Repository and application configuration files may also be present in your project.*
+*Note: Repository and application configuration files may also be present in my project.*
 
 ## ⚙️ Configuration
 
-Configure your database and server port in `src/main/resources/application.properties`.
+Configure my database and server port in `src/main/resources/application.properties`.
 
 Example:
 
