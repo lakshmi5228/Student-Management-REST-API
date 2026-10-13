@@ -49,9 +49,9 @@ Example:
 ```properties
 server.port=9898
 
-spring.datasource.url=jdbc:mysql://localhost:3306/studentdb
-spring.datasource.username=YOUR_DB_USERNAME
-spring.datasource.password=YOUR_DB_PASSWORD
+spring.datasource.url=jdbc:mysql://localhost:3306/batch77
+spring.datasource.username=root
+spring.datasource.password=root
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
